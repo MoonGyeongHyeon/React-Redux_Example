@@ -1,5 +1,5 @@
 import React from 'react';
-import { increment, decrement } from "../actions";
+import { increment, decrement } from "../actions/index";
 import {connect} from "react-redux";
 
 class Buttons extends React.Component {

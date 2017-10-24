@@ -1,5 +1,5 @@
 import React from 'react';
-import { setDiff } from "../actions";
+import { setDiff } from "../actions/index";
 import { connect } from 'react-redux';
 
 class Option extends React.Component {
